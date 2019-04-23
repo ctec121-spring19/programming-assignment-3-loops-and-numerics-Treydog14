@@ -5,11 +5,11 @@
 # YOUR NAME
 
 def main():
-    print("\nStudent Output")
+    print("\nTrevor's Output")
 
     # write code that will sum the numbers between 15 and 30 inclusive
     # and print the sum
-
+    
     # sum the numbers in the sequence [2, 4, 7, 9, 12, 14, 17, 19]
     # and print the sum
 
